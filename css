@@ -1,0 +1,20 @@
+body {
+  background-color:grey;
+  fonte-family:Chalkduster, fantasy;
+  width:50%;
+  margin: 0 auto;
+/*    border:1px solid black; */
+}
+
+header{
+  text-align: center;
+}
+
+.foto{
+  width:200px;
+  border:2px solid black;
+  border-radius:60px;
+}
+footer{
+  text-align: center;
+}
